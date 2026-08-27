@@ -1,2 +1,1 @@
-# tgs_miss_shinta
-learning godot
+tidak ada kendala saat mengkerjan tugas membuat game di godot, menurut saya godot lebih mudah di pahami dari pada gammaker, dikarnakan godot hampir sama seperti gammmaker, ada satu fitur yg menurut saya keren iyalha collioson untuk tile map nya ,di gammaker saya memperlukan id dari tail mpas tersebut kalo di godot ada fitur sendiri untuk memilih bagian TILE mna yg harus ada collliosnnya dan tidak perlu bnyk layer untuk memisahkan object dan tile, biasanya asset gratis atau berbayar saat memberikan file tile map. mereka menggabungkan object dan tiles nya yg mengharuskan kita membuat layer di gammaker tapi kalo godot tidak
